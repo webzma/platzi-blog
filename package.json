@@ -1,0 +1,16 @@
+{
+  "name": "blog-platzi",
+  "version": "1.0.0",
+  "description": "Curso de maquetación en Platzi (Blog)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "platzi",
+    "course",
+    "blog"
+  ],
+  "author": "webzma <ledezma.wilberk@gmail.com>",
+  "license": "ISC"
+}
